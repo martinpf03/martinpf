@@ -1,8 +1,8 @@
 Hi, I am Martin,
-I am a programmer,CTF player, future game developer who's studyng at IES Rodolfo Ucha. I am also working on an Erasmus Program 
+I am a programmer, CTF player, future game developer who's studyng at IES Rodolfo Ucha. I am also working on an Erasmus Program 
 consisting in AI programming with Robobo in Python.
 
-I am currently learning Python a C# and I am also learning game development in Unity.
+I am currently learning Python, C# and I am also learning game development in Unity.
 
-I've already been programming in Java and making cell apps in Flutter, and in the future I am hoping to learn JavaScript and Web Designing with HTML and CSS.
+I've already been programming in Java and making cell apps in Flutter but in the future I am hoping to learn JavaScript and Web Designing with HTML and CSS.
 Fun fact: I am typing this while I am inside a closet (Literally, not metaphorically)
