@@ -19,6 +19,6 @@ Fun fact: I am typing this while I am inside a closet (Literally, not metaphoric
    </a>
 
    <a href="https://www.python.com/en/](https://www.python.org/">
-         <img src="/resources/images/python_logo.png" alt="android" width="70" height="40"/> 
+         <img src="/resources/images/python_logo.png" alt="android" width="40" height="40"/> 
    </a>
 </p>
