@@ -17,4 +17,8 @@ Fun fact: I am typing this while I am inside a closet (Literally, not metaphoric
    <a href="https://www.java.com/en/">
          <img src="/resources/images/java_logo.png" alt="android" width="70" height="40"/> 
    </a>
+
+   <a href="https://www.python.com/en/](https://www.python.org/">
+         <img src="/resources/images/python_logo.png" alt="android" width="70" height="40"/> 
+   </a>
 </p>
